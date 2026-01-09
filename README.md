@@ -23,7 +23,7 @@
 
 ## Documentation
 
-For full documentation, visit [tailwindcss.com](https://tailwindcss.com).
+For a7md documentation, visit [tailwindcss.com](https://tailwindcss.com).
 
 ## Community
 
